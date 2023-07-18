@@ -1,0 +1,76 @@
+
+
+name: deploy with scheduler
+
+on:
+  schedule:
+    - cron: "32 3,7 * * *"
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: ["16.x"]
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+    - name: spider
+      run: |
+        npm install 
+        npm run github:spider:append
+    - name: Commit spider files
+      run: |
+        git config --local user.email "whimpark@gmail.com"
+        git config --local user.name  "whimpark"
+        git add .
+        git commit -a -m "spider commit!"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
+    - name: analyst
+      run: |
+        npm run builder
+        npm run github:analyst -- --email-username=${{ secrets.EMAIL_USERNAME }}  --email-password=${{ secrets.EMAIL_PASSWORD }}
+    - name: Commit build and analyst files
+      run: |
+        git config --local user.email "whimpark@gmail.com"
+        git config --local user.name  "whimpark"
+        git add .
+        git commit -a -m "analyst commit!"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
+    - name: Setup Pages
+      uses: actions/configure-pages@v2
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v1
+      with:
+        # Upload entire repository
+        path: './data/stock/'
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v1

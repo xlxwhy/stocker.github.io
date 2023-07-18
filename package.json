@@ -1,0 +1,25 @@
+{
+  "name": "stocker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Stocker.js",
+  "scripts": {
+    "analyst": "node src/stock/StockAnalyst.js",
+    "builder": "node src/stock/StockBuilder.js",
+    "spider": "node src/stock/StockSpider.js --local=true  ",
+    "spider:append": "node src/stock/StockSpider.js --local=true  --append-klines=true ",
+    "github:spider": "node src/stock/StockSpider.js --github=true",
+    "github:spider:append": "node src/stock/StockSpider.js --github=true --append-klines=true",
+    "github:analyst": "node src/stock/StockAnalyst.js  --github=true ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.2.2",
+    "lodash": "^4.17.21",
+    "minimist": "^1.2.7",
+    "n-readlines": "^1.0.1",
+    "nodemailer": "^6.9.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
