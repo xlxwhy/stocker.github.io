@@ -5792,6 +5792,224 @@
     ]
   },
   {
+    "code": "600362",
+    "name": "江西铜业",
+    "report": "23年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": "证金",
+    "wts": null,
+    "scale": "3.38",
+    "sqScale": "3.00",
+    "holders": [
+      {
+        "id": "T000073058",
+        "name": "中国证券金融股份有限公司",
+        "scale": "3.00",
+        "tag": "证金"
+      },
+      {
+        "id": "T000052470",
+        "name": "全国社保基金一一八组合",
+        "scale": "0.38",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "002261",
+    "name": "拓维信息",
+    "report": "23年一季报",
+    "sb": null,
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.38",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T004898900",
+        "name": "基本养老保险基金一二零二组合",
+        "scale": "0.38",
+        "tag": "养老金"
+      }
+    ]
+  },
+  {
+    "code": "688358",
+    "name": "祥生医疗",
+    "report": "23年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.37",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000025536",
+        "name": "全国社保基金一零七组合",
+        "scale": "0.37",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "300569",
+    "name": "天能重工",
+    "report": "23年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.37",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000059985",
+        "name": "全国社保基金一一六组合",
+        "scale": "0.37",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "300832",
+    "name": "新产业",
+    "report": "23年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "2.23",
+    "sqScale": "1.86",
+    "holders": [
+      {
+        "id": "00220484",
+        "name": "全国社保基金五零三组合",
+        "scale": "2.23",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "688498",
+    "name": "源杰科技",
+    "report": "23年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.37",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000127875",
+        "name": "全国社保基金四一六组合",
+        "scale": "0.37",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "600085",
+    "name": "同仁堂",
+    "report": "23年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": "证金",
+    "wts": null,
+    "scale": "3.35",
+    "sqScale": "2.99",
+    "holders": [
+      {
+        "id": "T000073058",
+        "name": "中国证券金融股份有限公司",
+        "scale": "2.99",
+        "tag": "证金"
+      },
+      {
+        "id": "00220484",
+        "name": "全国社保基金五零三组合",
+        "scale": "0.36",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "301080",
+    "name": "百普赛斯",
+    "report": "23年中报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "4.24",
+    "sqScale": "3.89",
+    "holders": [
+      {
+        "id": "T000025541",
+        "name": "全国社保基金一一二组合",
+        "scale": "4.24",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "300575",
+    "name": "中旗股份",
+    "report": "23年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "3.16",
+    "sqScale": "2.82",
+    "holders": [
+      {
+        "id": "Q120CF44C0",
+        "name": "嘉实基金管理有限公司-社保基金16041组合",
+        "scale": "3.16",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "600845",
+    "name": "宝信软件",
+    "report": "23年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.79",
+    "sqScale": "0.45",
+    "holders": [
+      {
+        "id": "T000025543",
+        "name": "全国社保基金五零二组合",
+        "scale": "0.43",
+        "tag": "社保"
+      },
+      {
+        "id": "T000074138",
+        "name": "全国社保基金四一四组合",
+        "scale": "0.36",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
     "code": "000667",
     "name": "美好置业",
     "report": "23年一季报",
