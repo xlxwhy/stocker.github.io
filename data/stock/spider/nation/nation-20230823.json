@@ -992,6 +992,242 @@
     ]
   },
   {
+    "code": "688766",
+    "name": "普冉股份",
+    "report": "23年中报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.36",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000053099",
+        "name": "全国社保基金一一四组合",
+        "scale": "1.36",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "300548",
+    "name": "博创科技",
+    "report": "23年中报",
+    "sb": null,
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.35",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T004898900",
+        "name": "基本养老保险基金一二零二组合",
+        "scale": "1.35",
+        "tag": "养老金"
+      }
+    ]
+  },
+  {
+    "code": "002952",
+    "name": "亚世光电",
+    "report": "23年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.34",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000025543",
+        "name": "全国社保基金五零二组合",
+        "scale": "1.34",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "603115",
+    "name": "海星股份",
+    "report": "23年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.34",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T004835572",
+        "name": "国泰基金管理有限公司-社保基金1102组合",
+        "scale": "1.34",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "688677",
+    "name": "海泰新光",
+    "report": "23年一季报",
+    "sb": "社保",
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "2.48",
+    "sqScale": "1.15",
+    "holders": [
+      {
+        "id": "T000059997",
+        "name": "全国社保基金一一三组合",
+        "scale": "1.71",
+        "tag": "社保"
+      },
+      {
+        "id": "T004754002",
+        "name": "基本养老保险基金八零二组合",
+        "scale": "0.77",
+        "tag": "养老金"
+      }
+    ]
+  },
+  {
+    "code": "600782",
+    "name": "新钢股份",
+    "report": "23年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "2.04",
+    "sqScale": "0.71",
+    "holders": [
+      {
+        "id": "T004835574",
+        "name": "汇添富基金管理股份有限公司-社保基金1103组合",
+        "scale": "1.07",
+        "tag": "社保"
+      },
+      {
+        "id": "T000122534",
+        "name": "全国社保基金一一七组合",
+        "scale": "0.97",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "002396",
+    "name": "星网锐捷",
+    "report": "23年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": "汇金",
+    "zj": null,
+    "wts": null,
+    "scale": "4.91",
+    "sqScale": "3.59",
+    "holders": [
+      {
+        "id": "T000280241",
+        "name": "中央汇金资产管理有限责任公司",
+        "scale": "3.53",
+        "tag": "汇金"
+      },
+      {
+        "id": "T000025545",
+        "name": "全国社保基金六零二组合",
+        "scale": "0.82",
+        "tag": "社保"
+      },
+      {
+        "id": "T000025537",
+        "name": "全国社保基金一零八组合",
+        "scale": "0.56",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "600258",
+    "name": "首旅酒店",
+    "report": "23年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "2.37",
+    "sqScale": "1.06",
+    "holders": [
+      {
+        "id": "T000025539",
+        "name": "全国社保基金一一零组合",
+        "scale": "1.04",
+        "tag": "社保"
+      },
+      {
+        "id": "T000070719",
+        "name": "全国社保基金四一一组合",
+        "scale": "0.68",
+        "tag": "社保"
+      },
+      {
+        "id": "T000025544",
+        "name": "全国社保基金六零一组合",
+        "scale": "0.65",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "300567",
+    "name": "精测电子",
+    "report": "23年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.29",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000025532",
+        "name": "全国社保基金一零三组合",
+        "scale": "1.29",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "301328",
+    "name": "维峰电子",
+    "report": "23年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.29",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "Q01B6C6160",
+        "name": "广发基金管理有限公司-社保基金四二零组合",
+        "scale": "1.29",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
     "code": "300443",
     "name": "金雷股份",
     "report": "23年一季报",
@@ -1960,6 +2196,230 @@
     ]
   },
   {
+    "code": "300785",
+    "name": "值得买",
+    "report": "23年一季报",
+    "sb": null,
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.00",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T004898900",
+        "name": "基本养老保险基金一二零二组合",
+        "scale": "1.00",
+        "tag": "养老金"
+      }
+    ]
+  },
+  {
+    "code": "301330",
+    "name": "熵基科技",
+    "report": "23年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.00",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "03148651",
+        "name": "全国社保基金五零四组合",
+        "scale": "1.00",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "603866",
+    "name": "桃李面包",
+    "report": "23年中报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.00",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "Q121C0377B",
+        "name": "汇添富基金管理股份有限公司-社保基金17022组合",
+        "scale": "1.00",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "600389",
+    "name": "江山股份",
+    "report": "23年中报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "5.02",
+    "sqScale": "4.02",
+    "holders": [
+      {
+        "id": "00220484",
+        "name": "全国社保基金五零三组合",
+        "scale": "3.16",
+        "tag": "社保"
+      },
+      {
+        "id": "Q01B6C6160",
+        "name": "广发基金管理有限公司-社保基金四二零组合",
+        "scale": "1.86",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "688686",
+    "name": "奥普特",
+    "report": "23年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.99",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000025531",
+        "name": "全国社保基金一零二组合",
+        "scale": "0.99",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "002154",
+    "name": "报喜鸟",
+    "report": "23年中报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.81",
+    "sqScale": "0.82",
+    "holders": [
+      {
+        "id": "T004835574",
+        "name": "汇添富基金管理股份有限公司-社保基金1103组合",
+        "scale": "0.99",
+        "tag": "社保"
+      },
+      {
+        "id": "00079956",
+        "name": "全国社保基金一零一组合",
+        "scale": "0.82",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "300850",
+    "name": "新强联",
+    "report": "23年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.99",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000052470",
+        "name": "全国社保基金一一八组合",
+        "scale": "0.99",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "000418",
+    "name": "小天鹅A",
+    "report": "19年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": "汇金",
+    "zj": null,
+    "wts": null,
+    "scale": "3.78",
+    "sqScale": "2.79",
+    "holders": [
+      {
+        "id": "T000280241",
+        "name": "中央汇金资产管理有限责任公司",
+        "scale": "1.61",
+        "tag": "汇金"
+      },
+      {
+        "id": "T000047353",
+        "name": "全国社保基金四零六组合",
+        "scale": "1.18",
+        "tag": "社保"
+      },
+      {
+        "id": "00079956",
+        "name": "全国社保基金一零一组合",
+        "scale": "0.99",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "688682",
+    "name": "霍莱沃",
+    "report": "23年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.99",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000053099",
+        "name": "全国社保基金一一四组合",
+        "scale": "0.99",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "000821",
+    "name": "京山轻机",
+    "report": "23年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.98",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000059985",
+        "name": "全国社保基金一一六组合",
+        "scale": "0.98",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
     "code": "603690",
     "name": "至纯科技",
     "report": "23年一季报",
@@ -2388,32 +2848,6 @@
         "name": "基本养老保险基金八零二组合",
         "scale": "0.38",
         "tag": "养老金"
-      }
-    ]
-  },
-  {
-    "code": "002484",
-    "name": "江海股份",
-    "report": "23年一季报",
-    "sb": "社保",
-    "ylj": null,
-    "hj": null,
-    "zj": null,
-    "wts": null,
-    "scale": "1.97",
-    "sqScale": "1.07",
-    "holders": [
-      {
-        "id": "T000070012",
-        "name": "全国社保基金四一八组合",
-        "scale": "1.25",
-        "tag": "社保"
-      },
-      {
-        "id": "T000122534",
-        "name": "全国社保基金一一七组合",
-        "scale": "0.72",
-        "tag": "社保"
       }
     ]
   },
@@ -2886,6 +3320,218 @@
     ]
   },
   {
+    "code": "300996",
+    "name": "普联软件",
+    "report": "23年中报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.77",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000059985",
+        "name": "全国社保基金一一六组合",
+        "scale": "0.77",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "002101",
+    "name": "广东鸿图",
+    "report": "23年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.76",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000025543",
+        "name": "全国社保基金五零二组合",
+        "scale": "0.76",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "688273",
+    "name": "麦澜德",
+    "report": "23年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.76",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000025536",
+        "name": "全国社保基金一零七组合",
+        "scale": "0.76",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "688515",
+    "name": "裕太微",
+    "report": "23年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.76",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000053099",
+        "name": "全国社保基金一一四组合",
+        "scale": "0.40",
+        "tag": "社保"
+      },
+      {
+        "id": "T000025545",
+        "name": "全国社保基金六零二组合",
+        "scale": "0.36",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "688516",
+    "name": "奥特维",
+    "report": "23年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "2.16",
+    "sqScale": "1.41",
+    "holders": [
+      {
+        "id": "T000047353",
+        "name": "全国社保基金四零六组合",
+        "scale": "1.41",
+        "tag": "社保"
+      },
+      {
+        "id": "T000025537",
+        "name": "全国社保基金一零八组合",
+        "scale": "0.75",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "300753",
+    "name": "爱朋医疗",
+    "report": "23年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.75",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "03148651",
+        "name": "全国社保基金五零四组合",
+        "scale": "0.75",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "000762",
+    "name": "西藏矿业",
+    "report": "23年一季报",
+    "sb": null,
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.75",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "Q01B604B7E",
+        "name": "基本养老保险基金一二零五组合",
+        "scale": "0.75",
+        "tag": "养老金"
+      }
+    ]
+  },
+  {
+    "code": "600710",
+    "name": "苏美达",
+    "report": "23年中报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.75",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000053099",
+        "name": "全国社保基金一一四组合",
+        "scale": "0.75",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "300188",
+    "name": "美亚柏科",
+    "report": "23年中报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.75",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "03148651",
+        "name": "全国社保基金五零四组合",
+        "scale": "0.75",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "300133",
+    "name": "华策影视",
+    "report": "23年中报",
+    "sb": null,
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.75",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "Q01B6A15C0",
+        "name": "基本养老保险基金一二零四组合",
+        "scale": "0.75",
+        "tag": "养老金"
+      }
+    ]
+  },
+  {
     "code": "300459",
     "name": "汤姆猫",
     "report": "23年一季报",
@@ -2968,26 +3614,6 @@
         "name": "基本养老保险基金一六零三二组合",
         "scale": "0.72",
         "tag": "养老金"
-      }
-    ]
-  },
-  {
-    "code": "600511",
-    "name": "国药股份",
-    "report": "23年一季报",
-    "sb": "社保",
-    "ylj": null,
-    "hj": null,
-    "zj": null,
-    "wts": null,
-    "scale": "0.72",
-    "sqScale": "0.00",
-    "holders": [
-      {
-        "id": "Q01B6C8B74",
-        "name": "国泰基金管理有限公司-社保基金四二一组合",
-        "scale": "0.72",
-        "tag": "社保"
       }
     ]
   },
@@ -5328,26 +5954,6 @@
     ]
   },
   {
-    "code": "300575",
-    "name": "中旗股份",
-    "report": "23年一季报",
-    "sb": "社保",
-    "ylj": null,
-    "hj": null,
-    "zj": null,
-    "wts": null,
-    "scale": "3.16",
-    "sqScale": "2.82",
-    "holders": [
-      {
-        "id": "Q120CF44C0",
-        "name": "嘉实基金管理有限公司-社保基金16041组合",
-        "scale": "3.16",
-        "tag": "社保"
-      }
-    ]
-  },
-  {
     "code": "000667",
     "name": "美好置业",
     "report": "23年一季报",
@@ -5607,6 +6213,26 @@
         "id": "T000070902",
         "name": "全国社保基金四一三组合",
         "scale": "0.72",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "600062",
+    "name": "华润双鹤",
+    "report": "23年中报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.30",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T004898556",
+        "name": "中信证券股份有限公司-社保基金1106组合",
+        "scale": "0.30",
         "tag": "社保"
       }
     ]
@@ -5953,6 +6579,26 @@
         "id": "T000053099",
         "name": "全国社保基金一一四组合",
         "scale": "0.27",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "300575",
+    "name": "中旗股份",
+    "report": "23年中报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "3.43",
+    "sqScale": "3.16",
+    "holders": [
+      {
+        "id": "Q120CF44C0",
+        "name": "嘉实基金管理有限公司-社保基金16041组合",
+        "scale": "3.43",
         "tag": "社保"
       }
     ]
@@ -6368,6 +7014,26 @@
         "name": "大成基金-农业银行-大成中证金融资产管理计划",
         "scale": "0.23",
         "tag": "证金"
+      }
+    ]
+  },
+  {
+    "code": "002158",
+    "name": "汉钟精机",
+    "report": "23年中报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.72",
+    "sqScale": "0.49",
+    "holders": [
+      {
+        "id": "T000070012",
+        "name": "全国社保基金四一八组合",
+        "scale": "0.72",
+        "tag": "社保"
       }
     ]
   }
