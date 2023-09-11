@@ -56,6 +56,7 @@ function buildJsonFiles(dir,filter){
         let klines=[];
         stock.klines.forEach(e=>{
             let values=e.split(",")
+            //2023-08-25,29.40,31.71,32.89,28.60,560446,1797066265.00,14.35,6.05,1.81,10.80
             klines.push({
                 "date": getKLinesValue(values,0),
                 "open": getKLinesValue(values,1),
@@ -64,9 +65,9 @@ function buildJsonFiles(dir,filter){
                 "min": getKLinesValue(values,4),
                 "deal_num": getKLinesValue(values,5),
                 "deal_amount": getKLinesValue(values,6),
-                "amp_total": getKLinesValue(values,7),
-                "amp_final_percent": getKLinesValue(values,8),
-                "amp_final_amount": getKLinesValue(values,9),
+                "amp_total": getKLinesValue(values,7),          //振幅
+                "amp_final_percent": getKLinesValue(values,8),  //涨跌比率
+                "amp_final_amount": getKLinesValue(values,9),   //涨跌金额
                 "exchange": getKLinesValue(values,10),
             })
         })

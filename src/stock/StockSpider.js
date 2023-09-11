@@ -175,7 +175,7 @@ function toFiles(data){
             const file=codeFolder+"/"+klineYear+".dat"
             let isChange=(lastValue!=klineYear);
             if(isChange) {
-                FileHelper.write(file, kline, "utf8", true)  
+                FileHelper.write(file, kline, "utf8", false)  
             } else{
                 FileHelper.append(file, "\n"+kline)
             }
