@@ -16,6 +16,34 @@ function getKLinesValue(values, index){
     else return null;
 }
 
+function modifyJsonFiles(dir,filter){
+    let start=Date.now()
+    let companyFolder=dir+"/company"
+    let klinesFolder=dir+"/klines"
+    let conpanyFiles=fs.readdirSync(companyFolder)
+ 
+    let data=[]
+    for (let cfi = 0; cfi < conpanyFiles.length; cfi++) {
+        const conpanyFile = conpanyFiles[cfi];
+        if(!conpanyFile.endsWith(filter)) continue;
+
+        // company
+        let stock=JSON.parse(FileHelper.read(companyFolder+"/"+conpanyFile, true));
+        let code=conpanyFile.split(".")[0]
+        let klinesFiles=FileHelper.getFiles(klinesFolder+"/"+code)
+
+        for (let kfi = 0; kfi < klinesFiles.length; kfi++) { 
+            console.log(klinesFiles[kfi])
+            let content=FileHelper.read(klinesFiles[kfi])
+            let lines=content.split("\n")
+            if(lines[0].startsWith("M")){
+                lines[0]= Buffer.from(lines[0],"base64").toString("utf-8");
+            } 
+            FileHelper.write(klinesFiles[kfi], lines.join("\n"))
+        }
+    }
+}
+
 function buildJsonFiles(dir,filter){
     let start=Date.now()
     let companyFolder=dir+"/company"
@@ -98,8 +126,9 @@ function buildJsonFiles(dir,filter){
 async function main(){
     let dir="./data/stock/spider"
     let filter=".dat"
-    buildJsonFiles(dir,filter)
+    // buildJsonFiles(dir,filter)
 
+    modifyJsonFiles(dir,filter)
 
 }
 
