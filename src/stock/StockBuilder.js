@@ -126,10 +126,7 @@ function buildJsonFiles(dir,filter){
 async function main(){
     let dir="./data/stock/spider"
     let filter=".dat"
-    // buildJsonFiles(dir,filter)
-
-    modifyJsonFiles(dir,filter)
-
+    buildJsonFiles(dir,filter)
 }
 
 
