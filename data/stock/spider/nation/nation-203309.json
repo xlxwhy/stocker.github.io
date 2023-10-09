@@ -2976,6 +2976,230 @@
     ]
   },
   {
+    "code": "300820",
+    "name": "英杰电气",
+    "report": "23年中报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.81",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000127875",
+        "name": "全国社保基金四一六组合",
+        "scale": "0.81",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "300487",
+    "name": "蓝晓科技",
+    "report": "23年中报",
+    "sb": "社保",
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "3.28",
+    "sqScale": "2.47",
+    "holders": [
+      {
+        "id": "Q121A25188",
+        "name": "基本养老保险基金一六零二二组合",
+        "scale": "1.49",
+        "tag": "养老金"
+      },
+      {
+        "id": "T000053099",
+        "name": "全国社保基金一一四组合",
+        "scale": "0.98",
+        "tag": "社保"
+      },
+      {
+        "id": "Q01D2223A0",
+        "name": "基本养老保险基金一六零二一组合",
+        "scale": "0.81",
+        "tag": "养老金"
+      }
+    ]
+  },
+  {
+    "code": "600888",
+    "name": "新疆众和",
+    "report": "23年中报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.25",
+    "sqScale": "0.45",
+    "holders": [
+      {
+        "id": "T000052470",
+        "name": "全国社保基金一一八组合",
+        "scale": "1.25",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "002345",
+    "name": "潮宏基",
+    "report": "23年中报",
+    "sb": null,
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.77",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "Q01D2398E8",
+        "name": "基本养老保险基金一六零四一组合",
+        "scale": "0.77",
+        "tag": "养老金"
+      }
+    ]
+  },
+  {
+    "code": "601222",
+    "name": "林洋能源",
+    "report": "23年中报",
+    "sb": null,
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.77",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T004894812",
+        "name": "基本养老保险基金一二零六组合",
+        "scale": "0.77",
+        "tag": "养老金"
+      }
+    ]
+  },
+  {
+    "code": "603533",
+    "name": "掌阅科技",
+    "report": "23年中报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.77",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000025545",
+        "name": "全国社保基金六零二组合",
+        "scale": "0.77",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "300996",
+    "name": "普联软件",
+    "report": "23年中报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.77",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000059985",
+        "name": "全国社保基金一一六组合",
+        "scale": "0.77",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "002508",
+    "name": "老板电器",
+    "report": "23年中报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "2.19",
+    "sqScale": "1.43",
+    "holders": [
+      {
+        "id": "T000070902",
+        "name": "全国社保基金四一三组合",
+        "scale": "0.76",
+        "tag": "社保"
+      },
+      {
+        "id": "T000070012",
+        "name": "全国社保基金四一八组合",
+        "scale": "0.72",
+        "tag": "社保"
+      },
+      {
+        "id": "T004898556",
+        "name": "中信证券股份有限公司-社保基金1106组合",
+        "scale": "0.71",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "600710",
+    "name": "苏美达",
+    "report": "23年中报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.75",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000053099",
+        "name": "全国社保基金一一四组合",
+        "scale": "0.75",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "300188",
+    "name": "美亚柏科",
+    "report": "23年中报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.75",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "03148651",
+        "name": "全国社保基金五零四组合",
+        "scale": "0.75",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
     "code": "300133",
     "name": "华策影视",
     "report": "23年中报",
