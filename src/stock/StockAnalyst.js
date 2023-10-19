@@ -27,6 +27,7 @@ const LinkHandler = require("./handler/LinkHandler.js")
 const NationHandler = require("./handler/NationHandler.js")
 const NationFilter = require("./filter/NationFilter.js")
 const AvgLongTimeFilter = require("./filter/AvgLongTimeFilter.js")
+const OneExchangeFilter = require("./filter/OneExchangeFilter.js")
 
 
 
@@ -157,6 +158,11 @@ function main() {
 
     let content="";
 
+    // OneExchangeFilter
+    console.log("=========================OneExchangeFilter");
+    analyzer.cleanAnalyzeFilter()
+    analyzer.appendAnalyzeFilter(OneExchangeFilter)  
+    content+=buildStockerHtml(analyzer.analyze(data),"OneExchangeFilter"); 
 
     // AvgLongTimeFilter
     console.log("=========================avg-long-time");

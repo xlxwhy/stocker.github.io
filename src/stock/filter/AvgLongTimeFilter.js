@@ -20,7 +20,7 @@ module.exports = {
         // 当天放量
         check&=(a.exa_dp11>150 &&a.exa_dp12>150 && a.exa_dp13>150 )
         if(check){
-            console.log(a)
+            // console.log(a)
         }
 
 

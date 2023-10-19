@@ -5,3 +5,5 @@ data/temp/*.md
 data/temp/*.html
 data/temp/*.txt
 data/temp/*.dat
+data/temp/train
+data/temp/train0
