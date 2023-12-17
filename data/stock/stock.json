@@ -6,6 +6,6 @@
     "filename": "analyst-exa-20230129-465276"
   },
   "spider": {
-    "nation": "./data/stock/spider/nation/nation-20231216.json"
+    "nation": "./data/stock/spider/nation/nation-20231217.json"
   }
 }
