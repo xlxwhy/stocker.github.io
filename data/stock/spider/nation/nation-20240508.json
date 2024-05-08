@@ -6012,6 +6012,224 @@
     ]
   },
   {
+    "code": "600828",
+    "name": "茂业商业",
+    "report": "24年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.32",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T004835574",
+        "name": "汇添富基金管理股份有限公司-社保基金1103组合",
+        "scale": "0.32",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "688590",
+    "name": "新致软件",
+    "report": "24年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "2.42",
+    "sqScale": "2.10",
+    "holders": [
+      {
+        "id": "T000053099",
+        "name": "全国社保基金一一四组合",
+        "scale": "2.42",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "600378",
+    "name": "昊华科技",
+    "report": "24年一季报",
+    "sb": "社保",
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "2.15",
+    "sqScale": "1.83",
+    "holders": [
+      {
+        "id": "T000059997",
+        "name": "全国社保基金一一三组合",
+        "scale": "1.16",
+        "tag": "社保"
+      },
+      {
+        "id": "T004754002",
+        "name": "基本养老保险基金八零二组合",
+        "scale": "0.99",
+        "tag": "养老金"
+      }
+    ]
+  },
+  {
+    "code": "002929",
+    "name": "润建股份",
+    "report": "24年一季报",
+    "sb": null,
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.32",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T004898900",
+        "name": "基本养老保险基金一二零二组合",
+        "scale": "0.32",
+        "tag": "养老金"
+      }
+    ]
+  },
+  {
+    "code": "002063",
+    "name": "远光软件",
+    "report": "24年一季报",
+    "sb": "社保",
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.95",
+    "sqScale": "1.64",
+    "holders": [
+      {
+        "id": "00079956",
+        "name": "全国社保基金一零一组合",
+        "scale": "1.09",
+        "tag": "社保"
+      },
+      {
+        "id": "Q01B954B91",
+        "name": "基本养老保险基金八零八组合",
+        "scale": "0.86",
+        "tag": "养老金"
+      }
+    ]
+  },
+  {
+    "code": "600985",
+    "name": "淮北矿业",
+    "report": "24年一季报",
+    "sb": "社保",
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.47",
+    "sqScale": "1.16",
+    "holders": [
+      {
+        "id": "T000074138",
+        "name": "全国社保基金四一四组合",
+        "scale": "0.81",
+        "tag": "社保"
+      },
+      {
+        "id": "Q121B06AC8",
+        "name": "基本养老保险基金一五零二二组合",
+        "scale": "0.66",
+        "tag": "养老金"
+      }
+    ]
+  },
+  {
+    "code": "600548",
+    "name": "深高速",
+    "report": "24年一季报",
+    "sb": null,
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.31",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T004866539",
+        "name": "基本养老保险基金一零零三组合",
+        "scale": "0.31",
+        "tag": "养老金"
+      }
+    ]
+  },
+  {
+    "code": "002276",
+    "name": "万马股份",
+    "report": "24年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.31",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000059985",
+        "name": "全国社保基金一一六组合",
+        "scale": "0.31",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "688636",
+    "name": "智明达",
+    "report": "24年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.01",
+    "sqScale": "0.70",
+    "holders": [
+      {
+        "id": "00079940",
+        "name": "全国社保基金五零一组合",
+        "scale": "1.01",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "300788",
+    "name": "中信出版",
+    "report": "24年一季报",
+    "sb": null,
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.30",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "Q01B6A15C0",
+        "name": "基本养老保险基金一二零四组合",
+        "scale": "0.30",
+        "tag": "养老金"
+      }
+    ]
+  },
+  {
     "code": "002756",
     "name": "永兴材料",
     "report": "24年一季报",
