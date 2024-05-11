@@ -1076,6 +1076,230 @@
     ]
   },
   {
+    "code": "000831",
+    "name": "中国稀土",
+    "report": "24年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.40",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000025541",
+        "name": "全国社保基金一一二组合",
+        "scale": "1.40",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "601595",
+    "name": "上海电影",
+    "report": "24年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.36",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "00203659",
+        "name": "全国社保基金六零二组合",
+        "scale": "1.36",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "600761",
+    "name": "安徽合力",
+    "report": "24年一季报",
+    "sb": null,
+    "ylj": null,
+    "hj": null,
+    "zj": "证金",
+    "wts": null,
+    "scale": "2.16",
+    "sqScale": "0.81",
+    "holders": [
+      {
+        "id": "T000265252",
+        "name": "广发基金-农业银行-广发中证金融资产管理计划",
+        "scale": "0.79",
+        "tag": "证金"
+      },
+      {
+        "id": "T000265250",
+        "name": "大成基金-农业银行-大成中证金融资产管理计划",
+        "scale": "0.69",
+        "tag": "证金"
+      },
+      {
+        "id": "T000265256",
+        "name": "易方达基金-农业银行-易方达中证金融资产管理计划",
+        "scale": "0.68",
+        "tag": "证金"
+      }
+    ]
+  },
+  {
+    "code": "601101",
+    "name": "昊华能源",
+    "report": "24年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.34",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "Q121C0377B",
+        "name": "汇添富基金管理股份有限公司-社保基金17022组合",
+        "scale": "0.72",
+        "tag": "社保"
+      },
+      {
+        "id": "Q01D14B13A",
+        "name": "汇添富基金管理股份有限公司-社保基金17021组合",
+        "scale": "0.62",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "603456",
+    "name": "九洲药业",
+    "report": "24年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.34",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000070012",
+        "name": "全国社保基金四一八组合",
+        "scale": "1.34",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "688127",
+    "name": "蓝特光学",
+    "report": "24年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.26",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "03149164",
+        "name": "全国社保基金五零二组合",
+        "scale": "1.26",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "688118",
+    "name": "普元信息",
+    "report": "24年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "2.34",
+    "sqScale": "1.08",
+    "holders": [
+      {
+        "id": "00204359",
+        "name": "全国社保基金六零四组合",
+        "scale": "2.34",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "000521",
+    "name": "长虹美菱",
+    "report": "24年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "3.44",
+    "sqScale": "2.21",
+    "holders": [
+      {
+        "id": "00079956",
+        "name": "全国社保基金一零一组合",
+        "scale": "3.44",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "600282",
+    "name": "南钢股份",
+    "report": "24年一季报",
+    "sb": "社保",
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.96",
+    "sqScale": "0.73",
+    "holders": [
+      {
+        "id": "T000025532",
+        "name": "全国社保基金一零三组合",
+        "scale": "1.30",
+        "tag": "社保"
+      },
+      {
+        "id": "T004866539",
+        "name": "基本养老保险基金一零零三组合",
+        "scale": "0.66",
+        "tag": "养老金"
+      }
+    ]
+  },
+  {
+    "code": "002343",
+    "name": "慈文传媒",
+    "report": "24年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.23",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000059985",
+        "name": "全国社保基金一一六组合",
+        "scale": "1.23",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
     "code": "688598",
     "name": "金博股份",
     "report": "24年一季报",
