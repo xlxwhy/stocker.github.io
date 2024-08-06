@@ -7226,5 +7226,223 @@
         "tag": "养老金"
       }
     ]
+  },
+  {
+    "code": "600096",
+    "name": "云天化",
+    "report": "24年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.50",
+    "sqScale": "0.32",
+    "holders": [
+      {
+        "id": "00203659",
+        "name": "全国社保基金六零二组合",
+        "scale": "0.50",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "300860",
+    "name": "锋尚文化",
+    "report": "24年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.18",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "Q120D675B8",
+        "name": "鹏华基金管理有限公司-社保基金1804组合",
+        "scale": "0.18",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "002008",
+    "name": "大族激光",
+    "report": "24年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": "证金",
+    "wts": null,
+    "scale": "2.11",
+    "sqScale": "1.93",
+    "holders": [
+      {
+        "id": "T000073058",
+        "name": "中国证券金融股份有限公司",
+        "scale": "1.93",
+        "tag": "证金"
+      },
+      {
+        "id": "03149166",
+        "name": "全国社保基金四零七组合",
+        "scale": "0.18",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "688352",
+    "name": "颀中科技",
+    "report": "24年一季报",
+    "sb": null,
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.18",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "Q125E53753",
+        "name": "基本养老保险基金一九零六组合",
+        "scale": "0.18",
+        "tag": "养老金"
+      }
+    ]
+  },
+  {
+    "code": "688652",
+    "name": "京仪装备",
+    "report": "24年一季报",
+    "sb": null,
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.67",
+    "sqScale": "0.49",
+    "holders": [
+      {
+        "id": "T004894812",
+        "name": "基本养老保险基金一二零六组合",
+        "scale": "0.67",
+        "tag": "养老金"
+      }
+    ]
+  },
+  {
+    "code": "601089",
+    "name": "福元医药",
+    "report": "24年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.65",
+    "sqScale": "0.47",
+    "holders": [
+      {
+        "id": "Q121B6E300",
+        "name": "易方达基金管理有限公司-社保基金17042组合",
+        "scale": "0.65",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "688593",
+    "name": "新相微",
+    "report": "24年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.41",
+    "sqScale": "0.24",
+    "holders": [
+      {
+        "id": "T000025532",
+        "name": "全国社保基金一零三组合",
+        "scale": "0.26",
+        "tag": "社保"
+      },
+      {
+        "id": "T000074490",
+        "name": "全国社保基金四一二组合",
+        "scale": "0.15",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "300824",
+    "name": "北鼎股份",
+    "report": "24年一季报",
+    "sb": "社保",
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "3.45",
+    "sqScale": "3.28",
+    "holders": [
+      {
+        "id": "Q01D22368F",
+        "name": "鹏华基金管理有限公司-社保基金17031组合",
+        "scale": "2.09",
+        "tag": "社保"
+      },
+      {
+        "id": "Q01D2398E8",
+        "name": "基本养老保险基金一六零四一组合",
+        "scale": "1.36",
+        "tag": "养老金"
+      }
+    ]
+  },
+  {
+    "code": "300660",
+    "name": "江苏雷利",
+    "report": "24年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.17",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000025533",
+        "name": "全国社保基金一零四组合",
+        "scale": "0.17",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "301004",
+    "name": "嘉益股份",
+    "report": "24年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.94",
+    "sqScale": "0.77",
+    "holders": [
+      {
+        "id": "03149164",
+        "name": "全国社保基金五零二组合",
+        "scale": "0.94",
+        "tag": "社保"
+      }
+    ]
   }
 ]
