@@ -264,7 +264,7 @@ async function main(){
         }
     }
 
-    console.log("耗时: ",Date.now()-start, " ms")
+    console.log("spend: ",Date.now()-start, " ms")
 
 }
 
