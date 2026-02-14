@@ -2710,6 +2710,206 @@
     ]
   },
   {
+    "code": "600988",
+    "name": "赤峰黄金",
+    "report": "25年三季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "3.02",
+    "sqScale": "2.12",
+    "holders": [
+      {
+        "id": "T000052470",
+        "name": "全国社保基金一一八组合",
+        "scale": "3.02",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "300133",
+    "name": "华策影视",
+    "report": "25年三季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.89",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000070902",
+        "name": "全国社保基金四一三组合",
+        "scale": "0.89",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "300017",
+    "name": "网宿科技",
+    "report": "25年三季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.89",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000070902",
+        "name": "全国社保基金四一三组合",
+        "scale": "0.89",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "601233",
+    "name": "桐昆股份",
+    "report": "25年三季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.89",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000070012",
+        "name": "全国社保基金四一八组合",
+        "scale": "0.89",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "688680",
+    "name": "海优新材",
+    "report": "25年三季报",
+    "sb": null,
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.89",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "Q1258731D1",
+        "name": "基本养老保险基金一九零四组合",
+        "scale": "0.89",
+        "tag": "养老金"
+      }
+    ]
+  },
+  {
+    "code": "002959",
+    "name": "小熊电器",
+    "report": "25年三季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.89",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000052470",
+        "name": "全国社保基金一一八组合",
+        "scale": "0.89",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "603127",
+    "name": "昭衍新药",
+    "report": "25年三季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.89",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "Q01B6C6160",
+        "name": "广发基金管理有限公司-社保基金四二零组合",
+        "scale": "0.89",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "600631",
+    "name": "百联股份",
+    "report": "11年中报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.88",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "00079977",
+        "name": "全国社保基金一零八组合",
+        "scale": "0.88",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "002422",
+    "name": "科伦药业",
+    "report": "25年年报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.87",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000127875",
+        "name": "全国社保基金四一六组合",
+        "scale": "0.87",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "300570",
+    "name": "太辰光",
+    "report": "25年三季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.87",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000025539",
+        "name": "全国社保基金一一零组合",
+        "scale": "0.87",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
     "code": "300119",
     "name": "瑞普生物",
     "report": "25年三季报",
