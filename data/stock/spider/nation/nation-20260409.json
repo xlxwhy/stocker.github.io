@@ -600,32 +600,6 @@
     ]
   },
   {
-    "code": "301108",
-    "name": "洁雅股份",
-    "report": "25年三季报",
-    "sb": "社保",
-    "ylj": "养老金",
-    "hj": null,
-    "zj": null,
-    "wts": null,
-    "scale": "2.01",
-    "sqScale": "0.00",
-    "holders": [
-      {
-        "id": "T000127875",
-        "name": "全国社保基金四一六组合",
-        "scale": "1.21",
-        "tag": "社保"
-      },
-      {
-        "id": "Q11FE444E9",
-        "name": "基本养老保险基金八零六组合",
-        "scale": "0.80",
-        "tag": "养老金"
-      }
-    ]
-  },
-  {
     "code": "688258",
     "name": "卓易信息",
     "report": "25年三季报",
@@ -848,26 +822,6 @@
       {
         "id": "00204359",
         "name": "全国社保基金六零四组合",
-        "scale": "1.79",
-        "tag": "社保"
-      }
-    ]
-  },
-  {
-    "code": "603588",
-    "name": "高能环境",
-    "report": "25年年报",
-    "sb": "社保",
-    "ylj": null,
-    "hj": null,
-    "zj": null,
-    "wts": null,
-    "scale": "1.79",
-    "sqScale": "0.00",
-    "holders": [
-      {
-        "id": "T000074138",
-        "name": "全国社保基金四一四组合",
         "scale": "1.79",
         "tag": "社保"
       }
@@ -2490,218 +2444,6 @@
     ]
   },
   {
-    "code": "600732",
-    "name": "爱旭股份",
-    "report": "25年三季报",
-    "sb": null,
-    "ylj": "养老金",
-    "hj": null,
-    "zj": null,
-    "wts": null,
-    "scale": "0.92",
-    "sqScale": "0.00",
-    "holders": [
-      {
-        "id": "Q125D2B072",
-        "name": "基本养老保险基金二零零二组合",
-        "scale": "0.92",
-        "tag": "养老金"
-      }
-    ]
-  },
-  {
-    "code": "688678",
-    "name": "福立旺",
-    "report": "25年年报",
-    "sb": "社保",
-    "ylj": "养老金",
-    "hj": null,
-    "zj": null,
-    "wts": null,
-    "scale": "0.92",
-    "sqScale": "0.00",
-    "holders": [
-      {
-        "id": "T000122534",
-        "name": "全国社保基金一一七组合",
-        "scale": "0.47",
-        "tag": "社保"
-      },
-      {
-        "id": "T004765317",
-        "name": "基本养老保险基金九零三组合",
-        "scale": "0.45",
-        "tag": "养老金"
-      }
-    ]
-  },
-  {
-    "code": "002020",
-    "name": "京新药业",
-    "report": "25年三季报",
-    "sb": "社保",
-    "ylj": null,
-    "hj": null,
-    "zj": null,
-    "wts": null,
-    "scale": "0.90",
-    "sqScale": "0.00",
-    "holders": [
-      {
-        "id": "T000025539",
-        "name": "全国社保基金一一零组合",
-        "scale": "0.90",
-        "tag": "社保"
-      }
-    ]
-  },
-  {
-    "code": "600270",
-    "name": "外运发展",
-    "report": "18年三季报",
-    "sb": null,
-    "ylj": null,
-    "hj": "汇金",
-    "zj": "证金",
-    "wts": null,
-    "scale": "2.38",
-    "sqScale": "1.48",
-    "holders": [
-      {
-        "id": "T000280241",
-        "name": "中央汇金资产管理有限责任公司",
-        "scale": "1.48",
-        "tag": "汇金"
-      },
-      {
-        "id": "T000073058",
-        "name": "中国证券金融股份有限公司",
-        "scale": "0.90",
-        "tag": "证金"
-      }
-    ]
-  },
-  {
-    "code": "300133",
-    "name": "华策影视",
-    "report": "25年三季报",
-    "sb": "社保",
-    "ylj": null,
-    "hj": null,
-    "zj": null,
-    "wts": null,
-    "scale": "0.89",
-    "sqScale": "0.00",
-    "holders": [
-      {
-        "id": "T000070902",
-        "name": "全国社保基金四一三组合",
-        "scale": "0.89",
-        "tag": "社保"
-      }
-    ]
-  },
-  {
-    "code": "300017",
-    "name": "网宿科技",
-    "report": "25年三季报",
-    "sb": "社保",
-    "ylj": null,
-    "hj": null,
-    "zj": null,
-    "wts": null,
-    "scale": "0.89",
-    "sqScale": "0.00",
-    "holders": [
-      {
-        "id": "T000070902",
-        "name": "全国社保基金四一三组合",
-        "scale": "0.89",
-        "tag": "社保"
-      }
-    ]
-  },
-  {
-    "code": "601233",
-    "name": "桐昆股份",
-    "report": "25年三季报",
-    "sb": "社保",
-    "ylj": null,
-    "hj": null,
-    "zj": null,
-    "wts": null,
-    "scale": "0.89",
-    "sqScale": "0.00",
-    "holders": [
-      {
-        "id": "T000070012",
-        "name": "全国社保基金四一八组合",
-        "scale": "0.89",
-        "tag": "社保"
-      }
-    ]
-  },
-  {
-    "code": "688680",
-    "name": "海优新材",
-    "report": "25年三季报",
-    "sb": null,
-    "ylj": "养老金",
-    "hj": null,
-    "zj": null,
-    "wts": null,
-    "scale": "0.89",
-    "sqScale": "0.00",
-    "holders": [
-      {
-        "id": "Q1258731D1",
-        "name": "基本养老保险基金一九零四组合",
-        "scale": "0.89",
-        "tag": "养老金"
-      }
-    ]
-  },
-  {
-    "code": "600038",
-    "name": "中直股份",
-    "report": "25年年报",
-    "sb": "社保",
-    "ylj": null,
-    "hj": null,
-    "zj": null,
-    "wts": null,
-    "scale": "0.89",
-    "sqScale": "0.00",
-    "holders": [
-      {
-        "id": "T000070902",
-        "name": "全国社保基金四一三组合",
-        "scale": "0.89",
-        "tag": "社保"
-      }
-    ]
-  },
-  {
-    "code": "600631",
-    "name": "百联股份",
-    "report": "11年中报",
-    "sb": "社保",
-    "ylj": null,
-    "hj": null,
-    "zj": null,
-    "wts": null,
-    "scale": "0.88",
-    "sqScale": "0.00",
-    "holders": [
-      {
-        "id": "00079977",
-        "name": "全国社保基金一零八组合",
-        "scale": "0.88",
-        "tag": "社保"
-      }
-    ]
-  },
-  {
     "code": "603119",
     "name": "浙江荣泰",
     "report": "25年年报",
@@ -3489,6 +3231,26 @@
         "id": "T000025535",
         "name": "全国社保基金一零六组合",
         "scale": "0.72",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "002484",
+    "name": "江海股份",
+    "report": "25年年报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.71",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000053099",
+        "name": "全国社保基金一一四组合",
+        "scale": "0.71",
         "tag": "社保"
       }
     ]
@@ -4498,6 +4260,32 @@
         "name": "全国社保基金一一五组合",
         "scale": "0.39",
         "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "301108",
+    "name": "洁雅股份",
+    "report": "25年年报",
+    "sb": "社保",
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "2.54",
+    "sqScale": "2.01",
+    "holders": [
+      {
+        "id": "T000127875",
+        "name": "全国社保基金四一六组合",
+        "scale": "1.58",
+        "tag": "社保"
+      },
+      {
+        "id": "Q11FE444E9",
+        "name": "基本养老保险基金八零六组合",
+        "scale": "0.96",
+        "tag": "养老金"
       }
     ]
   },
