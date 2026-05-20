@@ -1796,6 +1796,254 @@
     ]
   },
   {
+    "code": "688556",
+    "name": "高测股份",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.18",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000055236",
+        "name": "全国社保基金一一五组合",
+        "scale": "1.18",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "601678",
+    "name": "滨化股份",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.16",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000070902",
+        "name": "全国社保基金四一三组合",
+        "scale": "1.16",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "603590",
+    "name": "康辰药业",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "3.95",
+    "sqScale": "2.82",
+    "holders": [
+      {
+        "id": "Q131BD96FC",
+        "name": "基本养老保险基金二零零九组合",
+        "scale": "1.51",
+        "tag": "养老金"
+      },
+      {
+        "id": "Q1219A68C3",
+        "name": "中信证券股份有限公司-社保基金17052组合",
+        "scale": "1.40",
+        "tag": "社保"
+      },
+      {
+        "id": "T000070012",
+        "name": "全国社保基金四一八组合",
+        "scale": "1.04",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "600253",
+    "name": "天方药业",
+    "report": "12年年报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.13",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "00079977",
+        "name": "全国社保基金一零八组合",
+        "scale": "1.13",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "600315",
+    "name": "上海家化",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "4.61",
+    "sqScale": "3.49",
+    "holders": [
+      {
+        "id": "T000025541",
+        "name": "全国社保基金一一二组合",
+        "scale": "3.58",
+        "tag": "社保"
+      },
+      {
+        "id": "T000053099",
+        "name": "全国社保基金一一四组合",
+        "scale": "1.03",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "001222",
+    "name": "源飞宠物",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "4.95",
+    "sqScale": "3.84",
+    "holders": [
+      {
+        "id": "T000025532",
+        "name": "全国社保基金一零三组合",
+        "scale": "3.84",
+        "tag": "社保"
+      },
+      {
+        "id": "00079940",
+        "name": "全国社保基金五零一组合",
+        "scale": "1.11",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "300818",
+    "name": "耐普矿机",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.11",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000053099",
+        "name": "全国社保基金一一四组合",
+        "scale": "1.11",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "002558",
+    "name": "巨人网络",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "3.19",
+    "sqScale": "2.08",
+    "holders": [
+      {
+        "id": "00089878",
+        "name": "全国社保基金一一一组合",
+        "scale": "1.04",
+        "tag": "社保"
+      },
+      {
+        "id": "T000074138",
+        "name": "全国社保基金四一四组合",
+        "scale": "0.85",
+        "tag": "社保"
+      },
+      {
+        "id": "Q01B6C6160",
+        "name": "广发基金管理有限公司-社保基金四二零组合",
+        "scale": "0.73",
+        "tag": "社保"
+      },
+      {
+        "id": "Q01B6A15C0",
+        "name": "基本养老保险基金一二零四组合",
+        "scale": "0.57",
+        "tag": "养老金"
+      }
+    ]
+  },
+  {
+    "code": "601699",
+    "name": "潞安环能",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.09",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "Q121B6E2FF",
+        "name": "嘉实基金管理有限公司-社保基金16042组合",
+        "scale": "0.59",
+        "tag": "社保"
+      },
+      {
+        "id": "T004898900",
+        "name": "基本养老保险基金一二零二组合",
+        "scale": "0.50",
+        "tag": "养老金"
+      }
+    ]
+  },
+  {
+    "code": "688356",
+    "name": "键凯科技",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.09",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000025541",
+        "name": "全国社保基金一一二组合",
+        "scale": "1.09",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
     "code": "600273",
     "name": "嘉化能源",
     "report": "26年一季报",
@@ -4060,6 +4308,218 @@
     ]
   },
   {
+    "code": "002110",
+    "name": "三钢闽光",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.63",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "Q121B6E300",
+        "name": "易方达基金管理有限公司-社保基金17042组合",
+        "scale": "0.63",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "000933",
+    "name": "神火股份",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.39",
+    "sqScale": "0.76",
+    "holders": [
+      {
+        "id": "Q121C1416E",
+        "name": "汇添富基金管理股份有限公司-社保基金16032组合",
+        "scale": "0.70",
+        "tag": "社保"
+      },
+      {
+        "id": "00203660",
+        "name": "全国社保基金六零一组合",
+        "scale": "0.69",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "300821",
+    "name": "东岳硅材",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.62",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000025533",
+        "name": "全国社保基金一零四组合",
+        "scale": "0.62",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "300852",
+    "name": "四会富仕",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.62",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "03149164",
+        "name": "全国社保基金五零二组合",
+        "scale": "0.62",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "688125",
+    "name": "安达智能",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.61",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000025532",
+        "name": "全国社保基金一零三组合",
+        "scale": "0.61",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "000036",
+    "name": "华联控股",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.61",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T004899137",
+        "name": "华夏基金管理有限公司-社保基金四二二组合",
+        "scale": "0.61",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "688618",
+    "name": "三旺通信",
+    "report": "26年一季报",
+    "sb": null,
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.60",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "Q12585BB75",
+        "name": "基本养老保险基金二一零一组合",
+        "scale": "0.60",
+        "tag": "养老金"
+      }
+    ]
+  },
+  {
+    "code": "600435",
+    "name": "北方导航",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": "汇金",
+    "zj": null,
+    "wts": null,
+    "scale": "2.81",
+    "sqScale": "2.21",
+    "holders": [
+      {
+        "id": "T000280241",
+        "name": "中央汇金资产管理有限责任公司",
+        "scale": "2.21",
+        "tag": "汇金"
+      },
+      {
+        "id": "T000025541",
+        "name": "全国社保基金一一二组合",
+        "scale": "0.60",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "002215",
+    "name": "诺普信",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.83",
+    "sqScale": "1.23",
+    "holders": [
+      {
+        "id": "T004899137",
+        "name": "华夏基金管理有限公司-社保基金四二二组合",
+        "scale": "1.83",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "000506",
+    "name": "招金黄金",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.60",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000047353",
+        "name": "全国社保基金四零六组合",
+        "scale": "0.60",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
     "code": "601799",
     "name": "星宇股份",
     "report": "26年一季报",
@@ -5199,6 +5659,224 @@
         "id": "T000025532",
         "name": "全国社保基金一零三组合",
         "scale": "1.52",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "300952",
+    "name": "恒辉安防",
+    "report": "26年一季报",
+    "sb": null,
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.43",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "Q125D58F37",
+        "name": "基本养老保险基金一九零七组合",
+        "scale": "0.43",
+        "tag": "养老金"
+      }
+    ]
+  },
+  {
+    "code": "002815",
+    "name": "崇达技术",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.43",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000025533",
+        "name": "全国社保基金一零四组合",
+        "scale": "0.43",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "002044",
+    "name": "美年健康",
+    "report": "26年一季报",
+    "sb": null,
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.82",
+    "sqScale": "1.40",
+    "holders": [
+      {
+        "id": "Q01B604B7E",
+        "name": "基本养老保险基金一二零五组合",
+        "scale": "1.82",
+        "tag": "养老金"
+      }
+    ]
+  },
+  {
+    "code": "002028",
+    "name": "思源电气",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.35",
+    "sqScale": "0.94",
+    "holders": [
+      {
+        "id": "00203660",
+        "name": "全国社保基金六零一组合",
+        "scale": "0.84",
+        "tag": "社保"
+      },
+      {
+        "id": "T000053099",
+        "name": "全国社保基金一一四组合",
+        "scale": "0.51",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "600188",
+    "name": "兖矿能源",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.41",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000055236",
+        "name": "全国社保基金一一五组合",
+        "scale": "0.23",
+        "tag": "社保"
+      },
+      {
+        "id": "T000074138",
+        "name": "全国社保基金四一四组合",
+        "scale": "0.18",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "688563",
+    "name": "航材股份",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.87",
+    "sqScale": "0.46",
+    "holders": [
+      {
+        "id": "T000070902",
+        "name": "全国社保基金四一三组合",
+        "scale": "0.46",
+        "tag": "社保"
+      },
+      {
+        "id": "Q01B6879D7",
+        "name": "汇添富基金管理股份有限公司-社保基金四二三组合",
+        "scale": "0.40",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "600529",
+    "name": "山东药玻",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.40",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "Q121C0377B",
+        "name": "汇添富基金管理股份有限公司-社保基金17022组合",
+        "scale": "0.40",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "002507",
+    "name": "涪陵榨菜",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.40",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000025536",
+        "name": "全国社保基金一零七组合",
+        "scale": "0.40",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "603806",
+    "name": "福斯特",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.40",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000025531",
+        "name": "全国社保基金一零二组合",
+        "scale": "0.40",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "600157",
+    "name": "永泰能源",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.40",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "03148651",
+        "name": "全国社保基金五零四组合",
+        "scale": "0.40",
         "tag": "社保"
       }
     ]
