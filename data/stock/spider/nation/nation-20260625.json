@@ -4296,6 +4296,218 @@
     ]
   },
   {
+    "code": "300821",
+    "name": "东岳硅材",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.62",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000025533",
+        "name": "全国社保基金一零四组合",
+        "scale": "0.62",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "300852",
+    "name": "四会富仕",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.62",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "03149164",
+        "name": "全国社保基金五零二组合",
+        "scale": "0.62",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "688125",
+    "name": "安达智能",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.61",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000025532",
+        "name": "全国社保基金一零三组合",
+        "scale": "0.61",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "000036",
+    "name": "华联控股",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.61",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T004899137",
+        "name": "华夏基金管理有限公司-社保基金四二二组合",
+        "scale": "0.61",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "600435",
+    "name": "北方导航",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": "汇金",
+    "zj": null,
+    "wts": null,
+    "scale": "2.81",
+    "sqScale": "2.21",
+    "holders": [
+      {
+        "id": "T000280241",
+        "name": "中央汇金资产管理有限责任公司",
+        "scale": "2.21",
+        "tag": "汇金"
+      },
+      {
+        "id": "T000025541",
+        "name": "全国社保基金一一二组合",
+        "scale": "0.60",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "002215",
+    "name": "诺普信",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.83",
+    "sqScale": "1.23",
+    "holders": [
+      {
+        "id": "T004899137",
+        "name": "华夏基金管理有限公司-社保基金四二二组合",
+        "scale": "1.83",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "000506",
+    "name": "招金黄金",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.60",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000047353",
+        "name": "全国社保基金四零六组合",
+        "scale": "0.60",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "601799",
+    "name": "星宇股份",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.60",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "Q01B6C6160",
+        "name": "广发基金管理有限公司-社保基金四二零组合",
+        "scale": "0.60",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "688618",
+    "name": "三旺通信",
+    "report": "26年一季报",
+    "sb": null,
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.60",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "Q12585BB75",
+        "name": "基本养老保险基金二一零一组合",
+        "scale": "0.60",
+        "tag": "养老金"
+      }
+    ]
+  },
+  {
+    "code": "002943",
+    "name": "宇晶股份",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "4.81",
+    "sqScale": "4.21",
+    "holders": [
+      {
+        "id": "00220484",
+        "name": "全国社保基金五零三组合",
+        "scale": "2.67",
+        "tag": "社保"
+      },
+      {
+        "id": "T004894810",
+        "name": "基本养老保险基金一二零三组合",
+        "scale": "2.14",
+        "tag": "养老金"
+      }
+    ]
+  },
+  {
     "code": "603612",
     "name": "索通发展",
     "report": "26年一季报",
