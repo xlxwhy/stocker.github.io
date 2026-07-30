@@ -2714,22 +2714,226 @@
     ]
   },
   {
-    "code": "000633",
-    "name": "合金投资",
+    "code": "002030",
+    "name": "达安基因",
     "report": "26年一季报",
     "sb": null,
-    "ylj": "养老金",
-    "hj": null,
+    "ylj": null,
+    "hj": "汇金",
     "zj": null,
     "wts": null,
     "scale": "0.91",
     "sqScale": "0.00",
     "holders": [
       {
-        "id": "Q01B6A15BE",
-        "name": "基本养老保险基金一三零二组合",
+        "id": "T000280241",
+        "name": "中央汇金资产管理有限责任公司",
         "scale": "0.91",
+        "tag": "汇金"
+      }
+    ]
+  },
+  {
+    "code": "605589",
+    "name": "圣泉集团",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.91",
+    "sqScale": "1.00",
+    "holders": [
+      {
+        "id": "00089878",
+        "name": "全国社保基金一一一组合",
+        "scale": "1.09",
+        "tag": "社保"
+      },
+      {
+        "id": "Q1219A68C3",
+        "name": "中信证券股份有限公司-社保基金17052组合",
+        "scale": "0.82",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "002810",
+    "name": "山东赫达",
+    "report": "26年一季报",
+    "sb": null,
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.90",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "Q1258731D1",
+        "name": "基本养老保险基金一九零四组合",
+        "scale": "0.90",
         "tag": "养老金"
+      }
+    ]
+  },
+  {
+    "code": "688141",
+    "name": "杰华特",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.90",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "Q1219A68C3",
+        "name": "中信证券股份有限公司-社保基金17052组合",
+        "scale": "0.90",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "600270",
+    "name": "外运发展",
+    "report": "18年三季报",
+    "sb": null,
+    "ylj": null,
+    "hj": "汇金",
+    "zj": "证金",
+    "wts": null,
+    "scale": "2.38",
+    "sqScale": "1.48",
+    "holders": [
+      {
+        "id": "T000280241",
+        "name": "中央汇金资产管理有限责任公司",
+        "scale": "1.48",
+        "tag": "汇金"
+      },
+      {
+        "id": "T000073058",
+        "name": "中国证券金融股份有限公司",
+        "scale": "0.90",
+        "tag": "证金"
+      }
+    ]
+  },
+  {
+    "code": "002138",
+    "name": "顺络电子",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.61",
+    "sqScale": "0.73",
+    "holders": [
+      {
+        "id": "Q01B954B91",
+        "name": "基本养老保险基金八零八组合",
+        "scale": "0.84",
+        "tag": "养老金"
+      },
+      {
+        "id": "00079956",
+        "name": "全国社保基金一零一组合",
+        "scale": "0.77",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "600631",
+    "name": "百联股份",
+    "report": "11年中报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.88",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "00079977",
+        "name": "全国社保基金一零八组合",
+        "scale": "0.88",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "301158",
+    "name": "德石股份",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.45",
+    "sqScale": "0.57",
+    "holders": [
+      {
+        "id": "00204359",
+        "name": "全国社保基金六零四组合",
+        "scale": "0.77",
+        "tag": "社保"
+      },
+      {
+        "id": "Q120D3F81F",
+        "name": "招商基金管理有限公司-社保基金1903组合",
+        "scale": "0.68",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "002283",
+    "name": "天润工业",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.88",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "T000059985",
+        "name": "全国社保基金一一六组合",
+        "scale": "0.88",
+        "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "301097",
+    "name": "天益医疗",
+    "report": "26年一季报",
+    "sb": "社保",
+    "ylj": null,
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "0.87",
+    "sqScale": "0.00",
+    "holders": [
+      {
+        "id": "Q120D3F81F",
+        "name": "招商基金管理有限公司-社保基金1903组合",
+        "scale": "0.87",
+        "tag": "社保"
       }
     ]
   },
@@ -4924,6 +5128,32 @@
         "name": "汇添富基金管理股份有限公司-社保基金17022组合",
         "scale": "0.48",
         "tag": "社保"
+      }
+    ]
+  },
+  {
+    "code": "603309",
+    "name": "维力医疗",
+    "report": "26年中报",
+    "sb": null,
+    "ylj": "养老金",
+    "hj": null,
+    "zj": null,
+    "wts": null,
+    "scale": "1.22",
+    "sqScale": "0.74",
+    "holders": [
+      {
+        "id": "T004866539",
+        "name": "基本养老保险基金一零零三组合",
+        "scale": "0.72",
+        "tag": "养老金"
+      },
+      {
+        "id": "Q1258B0F6C",
+        "name": "基本养老保险基金一九零三组合",
+        "scale": "0.50",
+        "tag": "养老金"
       }
     ]
   },
